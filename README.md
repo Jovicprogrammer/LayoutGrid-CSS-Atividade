@@ -7,3 +7,4 @@ O que estou aprendendo:
 - Grid Layout
 - Template Grid
 - Grid Area
+- Grid Columns
